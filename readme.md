@@ -1,0 +1,1 @@
+The goal here is to analyze if political parties influence subsidy behavior of the Province of South Holland.
